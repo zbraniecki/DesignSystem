@@ -30,6 +30,8 @@
   },
   {"title": "Components",
     "pages": [
+      {"title": "Component",
+       "file" : "component.html"}
     ]
   },
   {"title": "Resources",
