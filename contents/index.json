@@ -31,11 +31,11 @@
   {"title": "Components",
     "pages": [
       {"title": "Toolbar button",
-       "file" : "toolbar-button.html"}
+       "file" : "toolbar-button.html"},
       {"title": "Doorhanger",
-       "file" : "doorhanger.html"}
+       "file" : "doorhanger.html"},
       {"title": "Modal",
-       "file" : "modal.html"}
+       "file" : "modal.html"},
       {"title": "Notification Bar",
        "file" : "notification-bar.html"}
     ]
