@@ -30,8 +30,14 @@
   },
   {"title": "Components",
     "pages": [
-      {"title": "Component",
-       "file" : "component.html"}
+      {"title": "Toolbar button",
+       "file" : "toolbar-button.html"}
+      {"title": "Doorhanger",
+       "file" : "doorhanger.html"}
+      {"title": "Modal",
+       "file" : "modal.html"}
+      {"title": "Notification Bar",
+       "file" : "notification-bar.html"}
     ]
   },
   {"title": "Resources",
