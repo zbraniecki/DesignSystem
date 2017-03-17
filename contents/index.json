@@ -34,8 +34,10 @@
        "file" : "toolbar-button.html"},
       {"title": "Doorhanger",
        "file" : "doorhanger.html"},
-      {"title": "Modal",
-       "file" : "modal.html"},
+      {"title": "Browser Modal",
+       "file" : "browser-modal.html"},
+      {"title": "Tab Modal",
+       "file" : "tab-modal.html"},
       {"title": "Notification Bar",
        "file" : "notification-bar.html"}
     ]
