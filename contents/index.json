@@ -28,19 +28,31 @@
     "pages": [
     ]
   },
+
+
   {"title": "Components",
     "pages": [
-      {"title": "Toolbar button",
-       "file" : "toolbar-button.html"},
+      {"title":"Button",
+      "file": "button.html"},
+      {"title": "Check Box",
+      "file": "check-box.html"},
+      {"title": "Dropdown",
+        "file": "dropdown.html"},
+      {"title": "Input Field",
+        "file": "input-field.html"},
+      {"title": "List",
+       "file" : "list.html"},
+      {"title": "Modal",
+       "file" : "modal.html"},
+      {"title": "Notification Bar",
+       "file" : "notification-bar.html"},
       {"title": "Doorhanger",
        "file" : "doorhanger.html"},
-      {"title": "Browser Modal",
-       "file" : "browser-modal.html"},
-      {"title": "Tab Modal",
-       "file" : "tab-modal.html"},
+      {"title": "Panel",
+       "file" : "panel.html"},
       {"title": "Notification Bar",
        "file" : "notification-bar.html"}
-    ]
+      ]
   },
   {"title": "Resources",
     "pages": [
